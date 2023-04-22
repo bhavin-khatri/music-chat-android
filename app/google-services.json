@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126027216039",
+    "project_id": "music-chat-d4f1b",
+    "storage_bucket": "music-chat-d4f1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126027216039:android:12773922862e1234cd5782",
+        "android_client_info": {
+          "package_name": "com.example.musicchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126027216039-9ptjrd1qshhoatdrc1j8mdhb6ij5f936.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX5TybyCLaicV4eP3rU23waC5dy6o1RnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126027216039-9ptjrd1qshhoatdrc1j8mdhb6ij5f936.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
